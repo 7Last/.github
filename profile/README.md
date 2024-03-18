@@ -1,5 +1,3 @@
-<img src="logo.png" width="10%"/>
-
 # Gruppo 7Last, Università degli Studi di Padova, A.A. 2023/24
 ## Progetto di Ingegneria del Software
 
